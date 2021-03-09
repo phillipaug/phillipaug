@@ -1,4 +1,11 @@
+[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://ibb.co/7NmbPVZ/)
+
 ### Hi there 👋
+
+<img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<phillipaug>&theme=<THEME_NAME>" />
 
 <!--
 **phillipaug/phillipaug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
