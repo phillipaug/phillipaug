@@ -1,23 +1,11 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://ibb.co/7NmbPVZ/)
 
 ### Hi there 👋
 
-<img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
+- 🔭 I’m currently working on Data
+- 🌱 I’m currently learning Data Science/Machine Learning
+- 👯 I’m looking to collaborate on projects and innovations to improve my knowledge
+- 🤔 I’m looking for help with new projects
+- 💬 Ask me about my startup: Convexis AI
+- 📫 How to reach me: https://www.linkedin.com/in/phillip-augusto-costa-cardoso/
+- ⚡ Fun fact: Created one of the first Database and Server for an online game in Brazil when i had 14 years old.
 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<phillipaug>&theme=<THEME_NAME>" />
-
-<!--
-**phillipaug/phillipaug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
